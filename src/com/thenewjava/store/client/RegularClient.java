@@ -1,4 +1,4 @@
 package com.thenewjava.store.client;
 
-public class RegularClient {
+public class RegularClient extends BaseClient {
 }
